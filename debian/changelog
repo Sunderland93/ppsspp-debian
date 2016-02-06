@@ -1,0 +1,35 @@
+ppsspp-unstable (1.1.1+git20160206-1) unstable; urgency=medium
+
+  * New GIT Release
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 06 Feb 2016 14:31:45 +0900
+
+ppsspp (1.1.1-1) unstable; urgency=medium
+
+  * Build for Debian 8
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 24 Oct 2015 18:58:57 +0900
+
+ppsspp (1.1.1-r93.f4.p3.l1635.a161.t83~40~ubuntu15.10.1) wily; urgency=low
+
+  * Auto build.
+
+ -- Sergio Benjamim <sergio_br2@yahoo.com.br>  Sat, 17 Oct 2015 02:37:13 +0000
+
+ppsspp (1.1.1-0ubuntu1) unstable; urgency=medium
+
+  * Upstream new release
+
+ -- Sérgio Benjamim <sergio_br2@yahoo.com.br>  Mon, 12 Oct 2015 18:51:00 -0300
+
+ppsspp (1.1.0-0ubuntu1) unstable; urgency=medium
+
+  * Upstream new release
+
+ -- Sérgio Benjamim <sergio_br2@yahoo.com.br>  Sun, 04 Oct 2015 18:05:00 -0300
+
+ppsspp (1.0.1-0ubuntu1) unstable; urgency=medium
+
+  * Upstream new release
+
+ -- Sérgio Benjamim <sergio_br2@yahoo.com.br>  Thu, 26 Feb 2015 19:12:00 -0300
